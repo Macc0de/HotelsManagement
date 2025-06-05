@@ -1,0 +1,30 @@
+﻿<Window x:Class="HotelsManagement.ViewRooms"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelsManagement"
+        mc:Ignorable="d"
+        Title="ViewRooms" Height="450" Width="800">
+    <Grid>
+        <Label Content="Выберите отель" HorizontalAlignment="Left" Margin="27,21,0,0" VerticalAlignment="Top" Height="30" Width="137"/>
+        <ComboBox x:Name="HotelName" HorizontalAlignment="Left" Margin="27,46,0,0" VerticalAlignment="Top" Width="190" Height="32"/>
+
+        <Label Content="Выберите этаж" HorizontalAlignment="Left" Margin="242,20,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Floor" HorizontalAlignment="Left" Margin="242,46,0,0" VerticalAlignment="Top" Width="109" Height="32" 
+              SelectedIndex="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" 
+              SelectionChanged="Floor_SelectionChanged"/>
+
+        <DataGrid x:Name="HotelGrid" AutoGenerateColumns="False" Margin="27,88,34,10" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding Number}" Width="*"/>
+                <DataGridTextColumn Header="Тип номера" Binding="{Binding Type}" Width="*"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="*"/>
+                <DataGridTextColumn Header="Гость" Binding="{Binding Guest}" Width="*"/>
+                <DataGridTextColumn Header="Услуга All Inclusive" Binding="{Binding AllInclusive}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Всего гостей:" HorizontalAlignment="Left" Margin="370,44,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <TextBlock x:Name="GuestCountText" HorizontalAlignment="Left" Margin="473,49,0,0" Text="0" VerticalAlignment="Top" FontWeight="Bold" FontSize="15"/>
+    </Grid>
+</Window>

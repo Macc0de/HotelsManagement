@@ -1,0 +1,6 @@
+C:\Users\Max\source\repos\Marinich\Hotels\bin\Debug\Hotels.dll
+C:\Users\Max\source\repos\Marinich\Hotels\bin\Debug\Hotels.pdb
+C:\Users\Max\source\repos\Marinich\Hotels\obj\Debug\Hotels.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\Marinich\Hotels\obj\Debug\Hotels.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Marinich\Hotels\obj\Debug\Hotels.dll
+C:\Users\Max\source\repos\Marinich\Hotels\obj\Debug\Hotels.pdb
