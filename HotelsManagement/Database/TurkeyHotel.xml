@@ -13,19 +13,9 @@
   <Guest>
     <Name>Дмитрий</Name>
     <Surname>Носов</Surname>
-    <AllInclusive>true</AllInclusive>
+    <AllInclusive>false</AllInclusive>
     <Room>
       <Number>10</Number>
-      <Floor>1</Floor>
-      <Type>Стандартный</Type>
-    </Room>
-  </Guest>
-  <Guest>
-    <Name>Юрий</Name>
-    <Surname>Борисов</Surname>
-    <AllInclusive>true</AllInclusive>
-    <Room>
-      <Number>11</Number>
       <Floor>1</Floor>
       <Type>Стандартный</Type>
     </Room>
@@ -218,6 +208,16 @@
       <Number>39</Number>
       <Floor>3</Floor>
       <Type>Люкс</Type>
+    </Room>
+  </Guest>
+  <Guest>
+    <Name>Никита</Name>
+    <Surname>Лебедев</Surname>
+    <AllInclusive>true</AllInclusive>
+    <Room>
+      <Number>16</Number>
+      <Floor>1</Floor>
+      <Type>Стандартный</Type>
     </Room>
   </Guest>
 </HotelGuests>

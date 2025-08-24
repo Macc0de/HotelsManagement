@@ -124,7 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Database\GreeceHotel.xml" />
-    <Resource Include="Database\RussiaHotel.xml" />
+    <Resource Include="Database\UkraineHotel.xml" />
     <Resource Include="Database\TurkeyHotel.xml" />
   </ItemGroup>
   <ItemGroup>
@@ -132,9 +132,6 @@
       <Project>{10b806e8-cf48-4e65-9004-e02c8192dfd0}</Project>
       <Name>Hotels</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Data.txt" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Database\ItalyHotel.xml" />

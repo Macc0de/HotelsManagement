@@ -40,11 +40,11 @@ namespace HotelsManagement
             greeceHotel.LoadFromXml();
             Hotels.Add(greeceHotel.Name, greeceHotel);
 
-            xmlPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\Database\RussiaHotel.xml"));
+            xmlPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\Database\UkraineHotel.xml"));
 
-            Hotel russiaHotel = new Hotel(xmlPath);
-            russiaHotel.LoadFromXml();
-            Hotels.Add(russiaHotel.Name, russiaHotel);
+            Hotel ukraineHotel = new Hotel(xmlPath);
+            ukraineHotel.LoadFromXml();
+            Hotels.Add(ukraineHotel.Name, ukraineHotel);
 
             xmlPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\Database\ItalyHotel.xml"));
 

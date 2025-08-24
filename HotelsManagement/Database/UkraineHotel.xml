@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<HotelGuests Hotel="Radisson Collection Moscow" Country="Россия" Stars="5" Floors="6">
+<HotelGuests Hotel="Hilton Kyiv" Country="Украина" Stars="5" Floors="6">
   <Guest>
     <Name>Дмитрий</Name>
     <Surname>Кузьмин</Surname>
@@ -12,7 +12,7 @@
   </Guest>
   <Guest>
     <Name>Владимир</Name>
-    <Surname>Потанин</Surname>
+    <Surname>Карась</Surname>
     <AllInclusive>false</AllInclusive>
     <Room>
       <Number>32</Number>

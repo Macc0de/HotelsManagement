@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Max\\source\\repos\\Marinich\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|c:\\users\\max\\source\\repos\\marinich\\hotelsmanagement\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\database\\turkeyhotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\database\\turkeyhotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|c:\\users\\max\\source\\repos\\marinich\\hotels\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\luxuryroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\luxuryroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\database\\greecehotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\database\\greecehotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\editguestinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\editguestinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\bookroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\bookroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\database\\ukrainehotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\database\\ukrainehotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\database\\italyhotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\database\\italyhotel.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\releaseroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\releaseroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\bookroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\bookroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\viewrooms.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,38 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\releaseroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\releaseroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\editguestinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|solutionrelative:hotelsmanagement\\editguestinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\luxuryroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\luxuryroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B806E8-CF48-4E65-9004-E02C8192DFD0}|Hotels\\Hotels.csproj|solutionrelative:hotels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52A732EE-3C61-4D39-AB39-B3D6D9EA8250}|HotelsManagement\\HotelsManagement.csproj|C:\\Users\\Max\\source\\repos\\Marinich\\hotelsmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -62,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,55 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReleaseRoom.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml.cs",
-              "RelativeDocumentMoniker": "HotelsManagement\\ReleaseRoom.xaml.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml.cs",
-              "RelativeToolTip": "HotelsManagement\\ReleaseRoom.xaml.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T01:18:42.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditGuestInfo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\EditGuestInfo.xaml.cs",
-              "RelativeDocumentMoniker": "HotelsManagement\\EditGuestInfo.xaml.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\EditGuestInfo.xaml.cs",
-              "RelativeToolTip": "HotelsManagement\\EditGuestInfo.xaml.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T01:18:28.689Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StandardRoom.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\StandardRoom.cs",
-              "RelativeDocumentMoniker": "Hotels\\StandardRoom.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\StandardRoom.cs",
-              "RelativeToolTip": "Hotels\\StandardRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T01:18:08.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Room.cs",
-              "RelativeDocumentMoniker": "Hotels\\Room.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Room.cs",
-              "RelativeToolTip": "Hotels\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T01:18:04.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "LuxuryRoom.cs",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\LuxuryRoom.cs",
               "RelativeDocumentMoniker": "Hotels\\LuxuryRoom.cs",
@@ -146,68 +122,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ViewRooms.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ViewRooms.xaml.cs",
-              "RelativeDocumentMoniker": "HotelsManagement\\ViewRooms.xaml.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ViewRooms.xaml.cs",
-              "RelativeToolTip": "HotelsManagement\\ViewRooms.xaml.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EditGuestInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\EditGuestInfo.xaml.cs",
+              "RelativeDocumentMoniker": "HotelsManagement\\EditGuestInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\EditGuestInfo.xaml.cs",
+              "RelativeToolTip": "HotelsManagement\\EditGuestInfo.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T00:49:51.914Z"
+              "WhenOpened": "2025-05-30T01:18:28.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookRoom.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml.cs",
-              "RelativeDocumentMoniker": "HotelsManagement\\BookRoom.xaml.cs",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml.cs",
-              "RelativeToolTip": "HotelsManagement\\BookRoom.xaml.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAIEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T00:55:47.958Z"
+              "DocumentIndex": 7,
+              "Title": "GreeceHotel.xml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\GreeceHotel.xml",
+              "RelativeDocumentMoniker": "HotelsManagement\\Database\\GreeceHotel.xml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\GreeceHotel.xml",
+              "RelativeToolTip": "HotelsManagement\\Database\\GreeceHotel.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-09T18:24:47.788Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Data.txt",
-              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Data.txt",
-              "RelativeDocumentMoniker": "HotelsManagement\\Data.txt",
-              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Data.txt",
-              "RelativeToolTip": "HotelsManagement\\Data.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-30T00:59:49.923Z",
+              "Title": "TurkeyHotel.xml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\TurkeyHotel.xml",
+              "RelativeDocumentMoniker": "HotelsManagement\\Database\\TurkeyHotel.xml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\TurkeyHotel.xml",
+              "RelativeToolTip": "HotelsManagement\\Database\\TurkeyHotel.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-09T18:21:49.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "StandardRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\StandardRoom.cs",
+              "RelativeDocumentMoniker": "Hotels\\StandardRoom.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\StandardRoom.cs",
+              "RelativeToolTip": "Hotels\\StandardRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:18:08.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Room.cs",
+              "RelativeDocumentMoniker": "Hotels\\Room.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Room.cs",
+              "RelativeToolTip": "Hotels\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:18:04.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IHotel.cs",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\IHotel.cs",
               "RelativeDocumentMoniker": "Hotels\\IHotel.cs",
               "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\IHotel.cs",
               "RelativeToolTip": "Hotels\\IHotel.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T01:17:58.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Hotel.cs",
               "RelativeDocumentMoniker": "Hotels\\Hotel.cs",
               "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Hotel.cs",
               "RelativeToolTip": "Hotels\\Hotel.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T01:17:53.512Z"
+              "WhenOpened": "2025-05-30T01:17:53.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\Hotels\\Guest.cs",
               "RelativeDocumentMoniker": "Hotels\\Guest.cs",
@@ -219,19 +220,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "BookRoom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HotelsManagement\\BookRoom.xaml.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml.cs",
+              "RelativeToolTip": "HotelsManagement\\BookRoom.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:55:47.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HotelsManagement\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "HotelsManagement\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T00:59:52.142Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HotelsManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\MainWindow.xaml",
+              "RelativeToolTip": "HotelsManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T18:15:25.391Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "UkraineHotel.xml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\UkraineHotel.xml",
+              "RelativeDocumentMoniker": "HotelsManagement\\Database\\UkraineHotel.xml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\UkraineHotel.xml",
+              "RelativeToolTip": "HotelsManagement\\Database\\UkraineHotel.xml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-09T18:24:49.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReleaseRoom.xaml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml",
+              "RelativeDocumentMoniker": "HotelsManagement\\ReleaseRoom.xaml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml",
+              "RelativeToolTip": "HotelsManagement\\ReleaseRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T18:16:52.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItalyHotel.xml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\ItalyHotel.xml",
+              "RelativeDocumentMoniker": "HotelsManagement\\Database\\ItalyHotel.xml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\Database\\ItalyHotel.xml",
+              "RelativeToolTip": "HotelsManagement\\Database\\ItalyHotel.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-09T18:21:47.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookRoom.xaml",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml",
+              "RelativeDocumentMoniker": "HotelsManagement\\BookRoom.xaml",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\BookRoom.xaml",
+              "RelativeToolTip": "HotelsManagement\\BookRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T18:16:49.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewRooms.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ViewRooms.xaml.cs",
+              "RelativeDocumentMoniker": "HotelsManagement\\ViewRooms.xaml.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ViewRooms.xaml.cs",
+              "RelativeToolTip": "HotelsManagement\\ViewRooms.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:49:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReleaseRoom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HotelsManagement\\ReleaseRoom.xaml.cs",
+              "ToolTip": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\ReleaseRoom.xaml.cs",
+              "RelativeToolTip": "HotelsManagement\\ReleaseRoom.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:18:42.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Max\\source\\repos\\Marinich\\HotelsManagement\\App.xaml",
               "RelativeDocumentMoniker": "HotelsManagement\\App.xaml",
